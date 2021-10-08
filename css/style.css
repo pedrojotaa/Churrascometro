@@ -22,6 +22,21 @@ input{
     width: 100%;
     box-sizing: border-box;
     padding: 5px;
-    margin-bottom: 5px;
+    margin-bottom: 10px;
     outline: none;
+}
+
+button{
+    width: 100%;
+    background-color: gray;
+    border: none;
+    border-radius: 5px;
+    padding: 5px;
+    color: white;
+    cursor: pointer;
+    margin-bottom: 10px;
+}
+
+p{
+    margin-bottom: 5px;
 }
